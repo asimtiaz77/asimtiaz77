@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Asim Imtiaz
+- 👀 I’m interested in prevention strategies and data analysis
+- 🌱 I’m currently learning Python
+- 📫 How to reach me - message here. 
